@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6DFD82-0790-4856-BBF3-4377E6888B4F}|hw_3\\hw_3.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_3\\ans_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F6DFD82-0790-4856-BBF3-4377E6888B4F}|hw_3\\hw_3.vcxproj|solutionrelative:hw_3\\ans_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AF99E5-4076-47FF-9734-ADEE4AA0EC73}|hw_1\\hw_1.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_1\\ans_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82AF99E5-4076-47FF-9734-ADEE4AA0EC73}|hw_1\\hw_1.vcxproj|solutionrelative:hw_1\\ans_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B6F3DD-3D1E-442D-B160-1BC3B70E6D28}|hw_2\\hw_2.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_2\\ans_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B6F3DD-3D1E-442D-B160-1BC3B70E6D28}|hw_2\\hw_2.vcxproj|solutionrelative:hw_2\\ans_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ans_3.c",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_3\\ans_3.c",
+              "RelativeDocumentMoniker": "hw_3\\ans_3.c",
+              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_3\\ans_3.c",
+              "RelativeToolTip": "hw_3\\ans_3.c",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T15:22:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ans_1.c",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_1\\ans_1.c",
+              "RelativeDocumentMoniker": "hw_1\\ans_1.c",
+              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_1\\ans_1.c",
+              "RelativeToolTip": "hw_1\\ans_1.c",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T15:21:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ans_2.c",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_2\\ans_2.c",
+              "RelativeDocumentMoniker": "hw_2\\ans_2.c",
+              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_3\\hw_2\\ans_2.c",
+              "RelativeToolTip": "hw_2\\ans_2.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T15:21:23.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
