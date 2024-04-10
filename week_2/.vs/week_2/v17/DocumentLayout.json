@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{726FA30F-018E-457C-A56A-F44F6EAA3BE9}|hw_1\\hw_1.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_1\\ans_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{726FA30F-018E-457C-A56A-F44F6EAA3BE9}|hw_1\\hw_1.vcxproj|solutionrelative:hw_1\\ans_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F37D229-CC7C-418A-B410-20316F6CC2D0}|hw_3\\hw_3.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_3\\ans_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F37D229-CC7C-418A-B410-20316F6CC2D0}|hw_3\\hw_3.vcxproj|solutionrelative:hw_3\\ans_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E4240E-11AD-42B4-89AC-C8CEE0353D5A}|hw_2\\hw_2.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_2\\ans_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8E4240E-11AD-42B4-89AC-C8CEE0353D5A}|hw_2\\hw_2.vcxproj|solutionrelative:hw_2\\ans_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726FA30F-018E-457C-A56A-F44F6EAA3BE9}|hw_1\\hw_1.vcxproj|C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_1\\ans_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{726FA30F-018E-457C-A56A-F44F6EAA3BE9}|hw_1\\hw_1.vcxproj|solutionrelative:hw_1\\ans_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ans_1.cpp",
-              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_1\\ans_1.cpp",
-              "RelativeDocumentMoniker": "hw_1\\ans_1.cpp",
-              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_1\\ans_1.cpp",
-              "RelativeToolTip": "hw_1\\ans_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "Title": "ans_3.c",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_3\\ans_3.c",
+              "RelativeDocumentMoniker": "hw_3\\ans_3.c",
+              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_3\\ans_3.c",
+              "RelativeToolTip": "hw_3\\ans_3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T09:52:37.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ans_2.c",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_2\\ans_2.c",
+              "RelativeDocumentMoniker": "hw_2\\ans_2.c",
+              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_2\\ans_2.c",
+              "RelativeToolTip": "hw_2\\ans_2.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T09:36:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ans_1.c",
+              "DocumentMoniker": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_1\\ans_1.c",
+              "RelativeDocumentMoniker": "hw_1\\ans_1.c",
+              "ToolTip": "C:\\C,C\u002B\u002B\\CAPSSTUDY\\week_2\\hw_1\\ans_1.c",
+              "RelativeToolTip": "hw_1\\ans_1.c",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-03T14:55:05.868Z",
               "EditorCaption": ""
             }
